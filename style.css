@@ -1,0 +1,51 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel_mainDiv
+{
+    border: 2px solid red;
+    
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv p,.travel_mainDiv h5
+{
+    margin: 20px;
+    color: crimson;
+}
+
+.movie_head
+{
+    font-size: 25px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 6px;
+}
+.right
+{
+ float: right;
+}
+.red
+{
+    color: red;
+}
+
+.books
+{
+    margin-bottom: 20px;
+
+}
+
+.small
+{
+    width:500px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
